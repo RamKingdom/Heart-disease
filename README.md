@@ -1,6 +1,7 @@
-# Section 3 - Structured Data Projects
+# Heart Disease Project 
 
-Structured data is data you'd usually find in an Excel spreadsheet, pandas DataFrame or similar tabular style file.
+Structured data is given in .csv file. It can also be downloade from : https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv
 
-The notebooks in this folder deal with two end-to-end machine learning modelling projects using the tools from the previous section.
+
+Clock on the collab link inside .ipynb file to see full code and to run it.
 
